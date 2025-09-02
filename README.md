@@ -1,4 +1,6 @@
-# Genius Creator System (Orchestration Model)
+# Genius Creator System
+
+The best system to get into creator mode leveraging latest AI advancements. Go from just brainstorming in chatgpt to actually creating your dreams.
 
 This system is an intelligent workflow and automation layer designed to help creators capture, organize, and act on their ideas. It orchestrates powerful, existing AI assistants with a local file system and Git version control.
 
